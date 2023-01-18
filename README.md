@@ -1,6 +1,8 @@
 # ZSH-CUSTOM-THEME
 Custom theme for ZSH Terminal
 
+To apply custom theme for ZSH copy .zshrc file to your /home/yourname folder
+
 How to install zsh and make it as your main terminal:
 
 - For Fedora and RHEL:
