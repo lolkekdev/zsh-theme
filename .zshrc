@@ -1,6 +1,6 @@
 export TERM="xterm-256color"
 export KWIN_TRIPLE_BUFFER=1
-export LC_ALL=ru_RU.UTF-8
+export LC_ALL=en_GB.UTF-8
 
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(host user dir)
 POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status root_indicator vcs battery time)
