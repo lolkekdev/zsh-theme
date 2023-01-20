@@ -31,10 +31,10 @@ zplug "plugins/git",               from:oh-my-zsh
 zplug "plugins/history",           from:oh-my-zsh
 
 zplug "zsh-users/zsh-autosuggestions"
-zplug "zdharma/fast-syntax-highlighting" # Работает намного быстрее предыдущего плагина и подсвечивает лучше
+zplug "zdharma/fast-syntax-highlighting"
 zplug "zsh-users/zsh-completions"
 zplug "zsh-users/zsh-history-substring-search"
-zplug "MichaelAquilina/zsh-you-should-use" # Сообщает о том, что для команды существует алиас
+zplug "MichaelAquilina/zsh-you-should-use"
 
 zplug check || zplug install
 zplug load
