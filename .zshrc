@@ -40,7 +40,6 @@ zplug check || zplug install
 zplug load
 
 alias ls="ls --color"
-alias logout="loginctl terminate-user lolkekdev"
 
 export PATH=~/.cargo/bin:$PATH
 
