@@ -1,4 +1,4 @@
-# ZSH-CUSTOM-THEME
+# LOLKEKDEV'S CUSTOM ZSH
 Custom theme for ZSH Terminal
 
 To apply custom theme for ZSH copy .zshrc file to your /home/yourname folder
