@@ -1,4 +1,7 @@
 # LOLKEKDEV'S CUSTOM ZSH
+
+![изображение](https://user-images.githubusercontent.com/105867115/224561291-b84c2819-e44a-4e61-b323-bfcf73a8bb44.png)
+
 Custom theme for ZSH Terminal
 
 To apply custom theme for ZSH copy .zshrc file to your /home/yourname folder
